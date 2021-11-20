@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/zadacha-ignata-new/static/css/main.eb90d31a.chunk.css",
+    "main.js": "/zadacha-ignata-new/static/js/main.11e6732a.chunk.js",
+    "main.js.map": "/zadacha-ignata-new/static/js/main.11e6732a.chunk.js.map",
+    "runtime-main.js": "/zadacha-ignata-new/static/js/runtime-main.2644df49.js",
+    "runtime-main.js.map": "/zadacha-ignata-new/static/js/runtime-main.2644df49.js.map",
+    "static/js/2.41d5a789.chunk.js": "/zadacha-ignata-new/static/js/2.41d5a789.chunk.js",
+    "static/js/2.41d5a789.chunk.js.map": "/zadacha-ignata-new/static/js/2.41d5a789.chunk.js.map",
+    "index.html": "/zadacha-ignata-new/index.html",
+    "static/css/main.eb90d31a.chunk.css.map": "/zadacha-ignata-new/static/css/main.eb90d31a.chunk.css.map",
+    "static/js/2.41d5a789.chunk.js.LICENSE.txt": "/zadacha-ignata-new/static/js/2.41d5a789.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2644df49.js",
+    "static/js/2.41d5a789.chunk.js",
+    "static/css/main.eb90d31a.chunk.css",
+    "static/js/main.11e6732a.chunk.js"
+  ]
+}
