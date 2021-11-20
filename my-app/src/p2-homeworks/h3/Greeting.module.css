@@ -1,0 +1,44 @@
+.greeting {
+    display: flex;
+    align-items: flex-start;
+}
+.error {
+    color: red;
+    height: 21px;
+    margin-left: 10px;
+}
+.input {
+    margin: 10px;
+    background: #99ff99;
+    color: cornflowerblue;
+}
+.input:focus {
+    outline: none;
+    border: 2px solid cornflowerblue;
+}
+.errorInput {
+    margin: 10px;
+    background: #99ff99;
+    color: cornflowerblue;
+    border: 2px solid red;
+    outline: none;
+}
+.button {
+    margin: 10px;
+    width: 60px;
+    background: cornflowerblue;
+    color: #99ff99;
+    outline: none;
+}
+.button:focus {
+    outline: 2px solid #99ff99;
+}
+.button:active {
+    background: #99ff99;
+}
+.button:disabled {
+    color: #335533;
+}
+.count {
+    margin: 10px;
+}
